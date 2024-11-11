@@ -35,3 +35,12 @@ This project implements a real-time human action recognition system that:
 pip install -r requirements.txt
 
 
+
+@article{mazzia2021action,
+  title={Action Transformer: A Self-Attention Model for Short-Time Pose-Based Human Action Recognition},
+  author={Mazzia, Vittorio and Angarano, Simone and Salvetti, Francesco and Angelini, Federico and Chiaberge, Marcello},
+  journal={Pattern Recognition},
+  pages={108487},
+  year={2021},
+  publisher={Elsevier}
+}
