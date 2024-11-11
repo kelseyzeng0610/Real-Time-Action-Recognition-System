@@ -34,7 +34,7 @@ This project implements a real-time human action recognition system that:
 ```bash
 pip install -r requirements.txt
 
-
+```
 
 @article{mazzia2021action,
   title={Action Transformer: A Self-Attention Model for Short-Time Pose-Based Human Action Recognition},
