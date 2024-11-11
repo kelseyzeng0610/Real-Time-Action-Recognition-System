@@ -7,7 +7,12 @@ A real-time human action recognition system implementing the Action Transformer 
 
 A real-time human action recognition system implementing the Action Transformer (AcT) architecture for pose-based action classification using webcam input.
 
+## Demo
 
+Here are some demonstrations of the system in action:
+
+![Demo GIF 1](assets/eg1.gif)
+![Demo GIF 2](assets/eg2.gif)
 
 
 
@@ -35,7 +40,7 @@ This project implements a real-time human action recognition system that:
 pip install -r requirements.txt
 
 ```
-
+```bash
 @article{mazzia2021action,
   title={Action Transformer: A Self-Attention Model for Short-Time Pose-Based Human Action Recognition},
   author={Mazzia, Vittorio and Angarano, Simone and Salvetti, Francesco and Angelini, Federico and Chiaberge, Marcello},
@@ -44,3 +49,5 @@ pip install -r requirements.txt
   year={2021},
   publisher={Elsevier}
 }
+```
+
