@@ -1,0 +1,3 @@
+[submodule "Desktop/Action-Recognition/Desktop/Action-Recognition/AcT"]
+	path = Desktop/Action-Recognition/Desktop/Action-Recognition/AcT
+	url = https://github.com/PIC4SeR/AcT.git
